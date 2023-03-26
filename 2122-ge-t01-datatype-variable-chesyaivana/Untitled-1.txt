@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(int_argc, char **_argv) {
+    unsigned short int a=0
+
+   char c1 = 'x'; //
+   char c2 = 'y'; //
+   char c3 = 'z'; //
+   char c4 = c1 >> c2; //
+   char c5 = c4 == c3 //
+
+   unsigned short int i1 
+   unsigned short int i2
+}

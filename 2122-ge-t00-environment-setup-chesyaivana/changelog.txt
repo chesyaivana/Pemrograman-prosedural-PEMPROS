@@ -1,0 +1,2 @@
+saya melakukan tugas sesuai arahan yang di berikan pada readme tugas t00_01.c
+saya memberi kode pada tugas t00_02.c
